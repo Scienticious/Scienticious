@@ -14,7 +14,7 @@ Open Source Contributor from Pakistan 🇵🇰
 ### Github Stats
 ![Mirza's github Stats](https://github-readme-stats.vercel.app/api?username=Scienticious&theme=material-palenight)
 
-### Connect  Me
+### Connect with me
 
 [<img align="left" alt="Scienticious | Facebook" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">][facebook]
 [<img align="left" alt="Scienticious | Twitter" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter]
