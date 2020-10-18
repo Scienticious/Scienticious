@@ -1,5 +1,5 @@
 ### Hi 👋, I'M Mirza Jaun
-A Open Source Contributor from Pakistan 🇵🇰
+Open Source Contributor from Pakistan 🇵🇰
 
 
 ### Tech Stack
