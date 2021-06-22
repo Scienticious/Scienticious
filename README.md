@@ -1,6 +1,12 @@
 ### Hi 👋, I'M Mirza Jaun
-Open Source Contributor from Pakistan 🇵🇰
 
+Open Source Contributor from Pakistan 🇵🇰
+- 🔭 I’m currently working on the [Flutter Cart Package](https://pub.dev/packages/flutter_cart)
+- ☕ I’m learning to work on bloc library
+- 🧑‍💻 I’m looking to collaborate on open source projects
+- 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I have a pet cat named Bittu🐈‍
 
 ### Tech Stack
 
